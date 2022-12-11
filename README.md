@@ -20,3 +20,4 @@ What's new:
  - v2.3: we changed physic:
                 1. now you don't die when you touch the ground,
                 2. from now when your finger gets away from camera view, the game stops.
+         
