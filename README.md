@@ -18,6 +18,11 @@ What's new:
          locked skins and to unlock them you need to get more score.
  - v2.2: we did redesing of our game.
  - v2.3: we changed physic:
-                1. now you don't die when you touch the ground,
+                1. now you don't die when you touch the ground;
                 2. from now when your finger gets away from camera view, the game stops.
+
+
+Ideas to do:
+  - sky skins, colon skins, groound skins, premium bird skins.
+  - 
          
